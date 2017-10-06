@@ -1,0 +1,6 @@
+r      Read
+r+     Read and write, prepend
+w      Write, truncate
+w+     Read and write, truncate
+a      Write, append
+a+     Read and write, append
