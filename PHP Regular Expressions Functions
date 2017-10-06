@@ -1,0 +1,8 @@
+ereg (pattern, str)
+split (pattern, str)
+ereg_replace (pattern, replace, str)
+preg_grep (pattern, arr)
+preg_match (pattern, str)
+preg_match_all (pattern, str, arr)
+preg_replace (pattern, replace, str)
+preg_split (pattern, str)
