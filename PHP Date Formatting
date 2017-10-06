@@ -1,0 +1,35 @@
+Y         4 digit year (2017)
+y         2 digit year (17)
+F         Long month (January)
+M         Short month (Jan)
+m         Month ⁴ (01 to 12)
+n         Month (1 to 12)
+D         Short day name (Mon)
+l         Long day name (Monday) (lowercase L)
+d         Day ⁴ (01 to 31)
+j         Day (1 to 31)
+ 
+h         12 Hour ⁴ (01 to 12)
+g         12 Hour (1 to 12)
+H         24 Hour ⁴ (00 to 23)
+G         24 Hour (0 to 23)
+i         Minutes ⁴ (00 to 59)
+s         Seconds ⁴ (00 to 59)
+ 
+w         Day of week ¹ (0 to 6)
+z         Day of year (0 to 365)
+W         Week of year ² (1 to 53)
+t         Days in month (28 to 31)
+ 
+a         am or pm
+A         AM or PM
+B         Swatch Internet Time (000 to 999)
+S         Ordinal Suffix (st, nd, rd, th)
+ 
+T         Timezone of machine (GMT)
+Z         Timezone offset (seconds)
+O         GMT offset (hours) (+0200)
+I         Daylight saving (1 or 0)
+L         Leap year (1 or 0)
+ 
+U         Seconds since Epoch ³
